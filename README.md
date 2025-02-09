@@ -17,6 +17,9 @@
 ![React](https://img.shields.io/badge/React-1E90FF?style=for-the-badge&logo=react&logoColor=white)
 
 
+![yoru-no-kurage-wa-oyogenai-jellyfish-can't-swim-in-the-night](https://github.com/user-attachments/assets/967e1879-4e7a-4ca6-9c1f-e8105129e4fa)
+
+
 ### ⚙️ tools  
 ![JetBrains](https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white)
 ![FileZilla](https://img.shields.io/badge/FileZilla-BF0000?style=for-the-badge&logo=filezilla&logoColor=white)
