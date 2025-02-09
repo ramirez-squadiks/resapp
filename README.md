@@ -1,7 +1,7 @@
 # konnichiwa, i am resa/resapp/ramirez
 
 ### 💫 whoami  
-- 🌐 **15 y.o & node.js developer**  
+- 🌐 **frontend developer & backend developer**  
 - 💻 **bot development & discord/telegram**  
 - 📚 **currently studying web development**
 
