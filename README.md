@@ -15,6 +15,7 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-1E90FF?style=for-the-badge&logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/Typescript-00BFFF?style=for-the-badge&logo=typescript&logoColor=white)
 
 
 ![yoru-no-kurage-wa-oyogenai-jellyfish-can't-swim-in-the-night](https://github.com/user-attachments/assets/967e1879-4e7a-4ca6-9c1f-e8105129e4fa)
